@@ -86,8 +86,6 @@ LIMIT 5
 | Tableau  | 46,554  |
 | Power BI | 39,468  |
 
-
-![Most In-Demand skills](Images\Most_in_demand_skills.jpg)
 <img width="1652" height="992" alt="image" src="https://github.com/user-attachments/assets/4a205e2f-3916-4104-879f-4a2b5cb0f3f3" />
 
 
