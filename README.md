@@ -113,7 +113,8 @@ GROUP BY skills
 HAVING COUNT(*) > 10
 ORDER BY avg_salary DESC
 ```
-![Highest_paying_skills](Images\Highest_paying_skills.jpg)
+<img width="1659" height="977" alt="image" src="https://github.com/user-attachments/assets/2152bd64-3f43-472d-a93e-1341ff68ea00" />
+
 ### **Key insight :**
 
 Skills related to big data, cloud computing, and data engineering are associated with the highest salaries.
